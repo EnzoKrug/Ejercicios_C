@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591774863 source:c:\users\alan krug\desktop\ejercicio_ en_c\tp3_aux\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1591775029 c:\users\alan krug\desktop\ejercicio_ en_c\tp3_aux\linkedlist.h
+
+1591774893 c:\users\alan krug\desktop\ejercicio_ en_c\tp3_aux\employee.h
+
+1591774958 source:c:\users\alan krug\desktop\ejercicio_ en_c\tp3_aux\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1591774327 source:c:\users\alan krug\desktop\ejercicio_ en_c\archivos_parser\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Alumno.h"
+
+1591774248 c:\users\alan krug\desktop\ejercicio_ en_c\archivos_parser\utn.h
+
+1591774302 c:\users\alan krug\desktop\ejercicio_ en_c\archivos_parser\alumno.h
+
+1591774222 source:c:\users\alan krug\desktop\ejercicio_ en_c\archivos_parser\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alumno.h"
+
+1591774371 source:c:\users\alan krug\desktop\ejercicio_ en_c\archivos_parser\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

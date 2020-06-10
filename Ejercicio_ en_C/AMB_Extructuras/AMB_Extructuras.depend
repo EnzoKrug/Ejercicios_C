@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1588832214 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\amb_extructuras\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Producto.h"
+	"utn.h"
+
+1589175783 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\amb_extructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"utn.h"
+
+1589176404 c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\amb_extructuras\utn.h
+
+1588832041 c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\amb_extructuras\producto.h
+
+1589177311 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\amb_extructuras\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589175832 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\amb_extructuras\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Cliente.h"
+
+1589175863 c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\amb_extructuras\cliente.h
+

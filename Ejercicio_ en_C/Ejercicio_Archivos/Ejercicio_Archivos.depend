@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591054151 source:c:\users\alan krug\desktop\ejercicio_ en_c\ejercicio_archivos\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591059336 source:c:\users\alan krug\desktop\ejercicio_ en_c\ejercicio_archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1591054162 c:\users\alan krug\desktop\ejercicio_ en_c\ejercicio_archivos\utn.h
+

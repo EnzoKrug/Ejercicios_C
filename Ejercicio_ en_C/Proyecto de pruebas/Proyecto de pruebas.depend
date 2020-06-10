@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588797764 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\proyecto de pruebas\funciones_pruebas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588798038 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\proyecto de pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones_pruebas.h"
+
+1588797253 c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\proyecto de pruebas\funciones_pruebas.h
+

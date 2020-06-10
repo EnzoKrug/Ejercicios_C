@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1591565709 source:c:\users\alan krug\desktop\ejercicio_ en_c\abm funciones memoria_dinamica\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Alumno.h"
+
+1591565647 c:\users\alan krug\desktop\ejercicio_ en_c\abm funciones memoria_dinamica\utn.h
+
+1591565674 c:\users\alan krug\desktop\ejercicio_ en_c\abm funciones memoria_dinamica\alumno.h
+
+1591565533 source:c:\users\alan krug\desktop\ejercicio_ en_c\abm funciones memoria_dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"Alumno.h"
+
+1591565769 source:c:\users\alan krug\desktop\ejercicio_ en_c\abm funciones memoria_dinamica\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

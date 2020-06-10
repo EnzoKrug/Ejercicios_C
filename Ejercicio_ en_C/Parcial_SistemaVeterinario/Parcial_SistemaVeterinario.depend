@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1589841559 source:c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\informes.c
+	"Informes.h"
+
+1589843486 source:c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\cliente.c
+	"Cliente.h"
+	<stdio.h>
+	<string.h>
+
+1589843474 c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\cliente.h
+
+1589841585 c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\informes.h
+	"Cliente.h"
+	"Mascota.h"
+	"Raza.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589843719 c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\mascota.h
+	"Raza.h"
+
+1589842763 source:c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\mascota.c
+	"Mascota.h"
+	<stdio.h>
+	<string.h>
+
+1589833193 source:c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589843444 source:c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Informes.h"
+	"utn.h"
+
+1589845052 c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\raza.h
+
+1589845066 source:c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\raza.c
+	"Raza.h"
+
+1589833159 c:\users\alan krug\desktop\enzo utn\programacion_laboratorio i\ejercicio_ en_c\parcial_sistemaveterinario\utn.h
+
+1591648751 source:c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\cliente.c
+	"Cliente.h"
+	"utn.h"
+	<stdio.h>
+	<string.h>
+
+1591488006 c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\cliente.h
+
+1591651302 source:c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\informes.c
+	"Informes.h"
+
+1591485785 c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\informes.h
+	"Cliente.h"
+	"Mascota.h"
+	"Raza.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591475885 c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\mascota.h
+	"Raza.h"
+
+1590280464 c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\raza.h
+
+1590280165 source:c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\raza.c
+	"Raza.h"
+	"utn.h"
+	<stdio.h>
+	<string.h>
+
+1591429012 source:c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591651302 source:c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Informes.h"
+	"utn.h"
+
+1591429004 c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\utn.h
+
+1591491831 source:c:\users\alan krug\desktop\ejercicio_ en_c\parcial_sistemaveterinario\mascota.c
+	"Mascota.h"
+	<stdio.h>
+	<string.h>
+	"utn.h"
+

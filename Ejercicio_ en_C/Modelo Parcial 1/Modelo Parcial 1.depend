@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1589177676 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Contratacion.h"
+	"utn.h"
+
+1589183476 c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\contratacion.h
+
+1589177038 c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\utn.h
+
+1589177942 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"Contratacion.h"
+	"utn.h"
+	"Informes.h"
+
+1589290928 c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\pantalla.h
+
+1589177973 c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\informes.h
+
+1589183538 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pantalla.h"
+	"Contratacion.h"
+	"utn.h"
+	"Informes.h"
+
+1589295103 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"utn.h"
+
+1589177461 source:c:\users\usuario\desktop\cursada 1cuatrim utn\laboratorio 1 - programacion 1\mis repositorios de github\modelo parcial 1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589859524 source:c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Contratacion.h"
+	"utn.h"
+
+1589859524 c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\contratacion.h
+
+1589859524 c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\utn.h
+
+1589859524 source:c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"Contratacion.h"
+	"utn.h"
+	"Informes.h"
+
+1589957818 c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\pantalla.h
+
+1589859524 c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\informes.h
+
+1589957911 source:c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pantalla.h"
+	"Contratacion.h"
+	"utn.h"
+	"Informes.h"
+
+1589859524 source:c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pantalla.h"
+	"utn.h"
+
+1589859524 source:c:\users\alan krug\desktop\ejercicio_ en_c\modelo parcial 1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
